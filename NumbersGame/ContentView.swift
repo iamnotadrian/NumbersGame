@@ -57,8 +57,7 @@ struct ContentView: View {
                     TextField("Type your answer", text: $input)
                         .foregroundStyle(answerColor)
                         .onSubmit {
-                            checkAnswer()
-                            generateNewNumbers()
+                           checkAnswer()
                         }
                 }
                 
