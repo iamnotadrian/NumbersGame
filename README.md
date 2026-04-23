@@ -7,6 +7,8 @@ This project is my way of improving them again while also practicing app develop
 NumbersGame provides short exercises focused on speed and accuracy.
 
 ## Roadmap
+- [x] Reset current game
+- [x] Show results after 10 questions
 - [ ] Track time and results for each session
 - [ ] Provide statistics to show progress over time
 - [ ] Allow users to choose different task types (e.g. addition, subtraction, multiplication)
