@@ -12,7 +12,7 @@ struct NumbersGameApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
-               .frame(maxWidth: 300, maxHeight: 400)
+                .frame(minWidth: 300, minHeight: 400)
         }
         .windowResizability(.contentSize)
     }
